@@ -1,0 +1,8 @@
+*.bin
+*.so
+*.o
+*.exe
+*.vscode
+*.json
+*.feather
+*.fql
